@@ -1,3 +1,27 @@
-<h1>Search Any Recipie</h1>
+<h1>
+PlatePal – Recipe Finder and Organizer
+</h1>
 
-Site that use React as Framework and is only frontend site, it let you search any recipie by its name, cuisine name, and cetagory. It'll also provide video of making recpie that user searched and also give option to add to favourites your recipie which will basically save in localStorage and this app fetch all data from an API. 
+PlatePal – Recipe Finder and Organizer
+
+PlatePal 🍽️
+
+An interactive recipe finder application built using React that allows users to search for recipes, view detailed instructions, and save their favorites.
+
+
+Features
+
+Search recipes based on ingredients or dish names.
+
+View detailed recipe instructions and preparation time.
+
+Add recipes to a favorites list for easy access later.
+
+
+Technologies Used
+
+React.js: For building a dynamic user interface.
+
+CSS3: For styling and responsiveness.
+
+Recipe API: To fetch recipe details dynamically. 
