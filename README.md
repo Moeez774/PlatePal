@@ -2,8 +2,6 @@
 PlatePal – Recipe Finder and Organizer
 </h1>
 
-PlatePal – Recipe Finder and Organizer
-
 PlatePal 🍽️
 
 An interactive recipe finder application built using React that allows users to search for recipes, view detailed instructions, and save their favorites.
